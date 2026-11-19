@@ -10,7 +10,13 @@ _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+# Messenger Priority Alert Prototype
+
+A standalone interactive prototype for a discreet message notification over a presentation slide.
+
+## Run it
+
+Open `index.html` in a modern browser. The controls simulate an incoming message, speech playback, reply, snooze, dismissal, and full-screen view. No messaging account or service connection is used.
 
 _____
 
